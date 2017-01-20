@@ -1,1 +1,1 @@
-# Whack-the-Mole
+Игра "Ударь крота" на Javascript.
